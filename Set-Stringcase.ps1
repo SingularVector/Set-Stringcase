@@ -34,7 +34,7 @@
 #>
 	
 	[CmdletBinding(DefaultParameterSetName = 'TitleCase',
-				   HelpUri = 'https://pscustomobject.github.io/powershell/PowerShell-Convert-to-Title-Case/',
+				   HelpUri = 'https://singularvector.github.io/powershell/PowerShell-Convert-to-Title-Case/',
 				   SupportsPaging = $false,
 				   SupportsShouldProcess = $false)]
 	[OutputType([string], ParameterSetName = 'TitleCase')]
